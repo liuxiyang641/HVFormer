@@ -1,6 +1,6 @@
 # Hierarchical Visual Context Fusion Transformer
 
-The source code for **Hierarchical Visual Contextual Learning via Mixture of Experts for Multimodal Relation Extraction**.
+The source code for **Multimodal Relation Extraction via a Mixture of Hierarchical Visual Context Learners**.
 
 ## Data preprocessing
 
